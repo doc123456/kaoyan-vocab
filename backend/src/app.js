@@ -2,6 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const path = require('path');
 const fs = require('fs');
+const { execFile } = require('child_process');
 const initSqlJs = require('sql.js');
 
 const app = express();
@@ -15,6 +16,17 @@ let db = null;
 let SQLRuntime = null;
 const SUPABASE_URL = process.env.SUPABASE_URL || '';
 const SUPABASE_PUBLISHABLE_KEY = process.env.SUPABASE_PUBLISHABLE_KEY || '';
+const runtimeDbPath = path.join(__dirname, '../data/vocab.db');
+
+function seedDatabaseIfNeeded() {
+  if (fs.existsSync(runtimeDbPath)) return Promise.resolve();
+  return new Promise((resolve, reject) => {
+    execFile(process.execPath, [path.join(__dirname, 'utils/initDb.js')], (error, _stdout, stderr) => {
+      if (error) return reject(new Error(stderr || error.message));
+      resolve();
+    });
+  });
+}
 
 // 中间件
 app.use(cors());
@@ -22,6 +34,7 @@ app.use(express.json());
 
 // 初始化数据库
 async function initDb() {
+  await seedDatabaseIfNeeded();
   SQLRuntime = await initSqlJs();
   const SQL = SQLRuntime;
   
