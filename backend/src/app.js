@@ -12,6 +12,9 @@ const dbPath = path.join(__dirname, '../data/vocab.db');
 
 // 全局数据库实例
 let db = null;
+let SQLRuntime = null;
+const SUPABASE_URL = process.env.SUPABASE_URL || '';
+const SUPABASE_PUBLISHABLE_KEY = process.env.SUPABASE_PUBLISHABLE_KEY || '';
 
 // 中间件
 app.use(cors());
@@ -19,7 +22,8 @@ app.use(express.json());
 
 // 初始化数据库
 async function initDb() {
-  const SQL = await initSqlJs();
+  SQLRuntime = await initSqlJs();
+  const SQL = SQLRuntime;
   
   if (fs.existsSync(dbPath)) {
     const fileBuffer = fs.readFileSync(dbPath);
@@ -102,11 +106,58 @@ function saveDb() {
   fs.writeFileSync(dbPath, Buffer.from(data));
 }
 
-// 数据库中间件
+async function supabaseRequest(pathname, token, options = {}) {
+  if (!SUPABASE_URL || !SUPABASE_PUBLISHABLE_KEY || !token) return null;
+  const response = await fetch(`${SUPABASE_URL}${pathname}`, {
+    ...options,
+    headers: {
+      apikey: SUPABASE_PUBLISHABLE_KEY,
+      Authorization: token,
+      'Content-Type': 'application/json',
+      ...(options.headers || {})
+    }
+  });
+  if (!response.ok) throw new Error(`Supabase request failed: ${response.status}`);
+  const text = await response.text();
+  return text ? JSON.parse(text) : null;
+}
+
+async function loadUserDatabase(req) {
+  const authorization = req.headers.authorization;
+  if (!authorization || !SUPABASE_URL || !SUPABASE_PUBLISHABLE_KEY) {
+    req.db = db;
+    req.saveDb = saveDb;
+    return;
+  }
+
+  const user = await supabaseRequest('/auth/v1/user', authorization);
+  if (!user?.id) {
+    req.db = db;
+    req.saveDb = saveDb;
+    return;
+  }
+
+  const rows = await supabaseRequest(`/rest/v1/learning_state?user_id=eq.${encodeURIComponent(user.id)}&select=progress`, authorization);
+  const encodedDb = rows?.[0]?.progress?.dbBase64;
+  const sourceBytes = encodedDb
+    ? Buffer.from(encodedDb, 'base64')
+    : Buffer.from(db.export());
+  const userDb = new SQLRuntime.Database(sourceBytes);
+
+  req.db = userDb;
+  req.saveDb = () => {
+    const payload = JSON.stringify({ dbBase64: Buffer.from(userDb.export()).toString('base64') });
+    void supabaseRequest(`/rest/v1/learning_state?user_id=eq.${encodeURIComponent(user.id)}`, authorization, {
+      method: 'PATCH',
+      headers: { Prefer: 'return=minimal' },
+      body: JSON.stringify({ progress: JSON.parse(payload), updated_at: new Date().toISOString() })
+    }).catch(error => console.error('保存云端学习进度失败:', error));
+  };
+}
+
+// 数据库中间件：登录用户使用自己的云端 SQLite 快照
 app.use((req, res, next) => {
-  req.db = db;
-  req.saveDb = saveDb;
-  next();
+  loadUserDatabase(req).then(() => next()).catch(next);
 });
 
 // 路由
@@ -119,6 +170,14 @@ app.use('/api/words', wordsRouter);
 app.use('/api/progress', progressRouter);
 app.use('/api/study', studyRouter);
 app.use('/api/stats', statsRouter);
+
+// 生产环境由后端同时托管 React 构建产物，访客只需要一个网址。
+const frontendBuildPath = path.join(__dirname, '../../frontend/build');
+app.use(express.static(frontendBuildPath));
+app.get('*', (req, res, next) => {
+  if (req.path.startsWith('/api/')) return next();
+  res.sendFile(path.join(frontendBuildPath, 'index.html'));
+});
 
 // 错误处理中间件
 app.use((err, req, res, next) => {
