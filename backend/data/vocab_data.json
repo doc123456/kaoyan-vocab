@@ -1,0 +1,1536 @@
+[
+  {
+    "word": "act",
+    "phonetic_uk": "/ækt/",
+    "phonetic_us": "/ækt/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "表演；举动；起作用",
+        "examples": [
+          {
+            "sentence_en": "They acted unreasonably when they turned down Jill’s application.",
+            "sentence_cn": "他们拒绝了吉尔的申请，这样做没道理。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "行为，法令；一幕",
+        "examples": [
+          {
+            "sentence_en": "He’s been acting strangely ever since his Mom died.",
+            "sentence_cn": "自从母亲死后，他的行为一直很怪。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "action",
+    "phonetic_uk": "/'ækʃ(ə)n/",
+    "phonetic_us": "/'ækʃən/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "行动，动作；作用；运转；行为；战斗",
+        "examples": [
+          {
+            "sentence_en": "The government must take action (=  do something  ) now to stop the rise in violent crime.",
+            "sentence_cn": "政府现在必须采取行动遏止暴力犯罪的上升。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "activate",
+    "phonetic_uk": "/'æktɪveɪt/",
+    "phonetic_us": "/'æktə'vet/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "启动，激活；驱动，驱使；使开始起作用",
+        "examples": [
+          {
+            "sentence_en": "Cooking fumes may activate the alarm.",
+            "sentence_cn": "烹调时的油烟可能会触发警报器。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "active",
+    "phonetic_uk": "/'æktɪv/",
+    "phonetic_us": "/'æktɪv/",
+    "meanings": [
+      {
+        "part_of_speech": "adj",
+        "meaning_cn": "活跃的，敏捷的，积极的；在活动中的",
+        "examples": [
+          {
+            "sentence_en": "games for active youngsters",
+            "sentence_cn": "活跃好动的年轻人玩的游戏"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "actress",
+    "phonetic_uk": "/'æktrɪs/",
+    "phonetic_us": "/'æktrɪs/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "女演员",
+        "examples": [
+          {
+            "sentence_en": "She's not only a great dramatic actress but she's also very funny.",
+            "sentence_cn": "她不仅是一位伟大的女戏剧演员，而且也很幽默。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "actual",
+    "phonetic_uk": "/'æktʃʊəl; -tjʊəl/",
+    "phonetic_us": "/'æktʃuəl/",
+    "meanings": [
+      {
+        "part_of_speech": "adj",
+        "meaning_cn": "实际的；现实的，真实的，目前的",
+        "examples": [
+          {
+            "sentence_en": "I’m not joking. Those were his actual words.",
+            "sentence_cn": "我没开玩笑，那都是他的原话。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "interact",
+    "phonetic_uk": "/ɪntər'ækt/",
+    "phonetic_us": "/,ɪntɚ'ækt/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "互相作用,互相影响",
+        "examples": [
+          {
+            "sentence_en": "While the other children interacted and played together, Ted ignored them.",
+            "sentence_cn": "当其他孩子们相互交往、一起玩耍时，泰德却不理他们。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "radioactive",
+    "phonetic_uk": "/,reɪdɪəʊ'æktɪv/",
+    "phonetic_us": "/'redɪo'æktɪv/",
+    "meanings": [
+      {
+        "part_of_speech": "adj",
+        "meaning_cn": "放射性,放射引起的",
+        "examples": [
+          {
+            "sentence_en": "the problem of how to dispose of radioactive waste",
+            "sentence_cn": "如何处理放射性废物的问题"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "react",
+    "phonetic_uk": "/rɪ'ækt/",
+    "phonetic_us": "/ri'ækt/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "反应,起作用;(against)反对,起反作用",
+        "examples": [
+          {
+            "sentence_en": "He reacted angrily to the suggestion that he had lied.",
+            "sentence_cn": "说他撒谎，他非常生气。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "transaction",
+    "phonetic_uk": "/træn'zækʃ(ə)n; trɑːn-; -'sæk-/",
+    "phonetic_us": "/træn'zækʃən/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "办理,处理;交易,事务;(pl.)会报,学报",
+        "examples": [
+          {
+            "sentence_en": "The bank charges a fixed rate for each transaction.",
+            "sentence_cn": "银行对每一笔业务收取固定费用。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "character",
+    "phonetic_uk": "/'kærəktə/",
+    "phonetic_us": "/'kærəktɚ/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "性格,品质,特性;人物,角色;字符,(汉)字",
+        "examples": [
+          {
+            "sentence_en": "He has a cheerful but quiet character.",
+            "sentence_cn": "他的性格乐观文静。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "characteristic",
+    "phonetic_uk": "/kærəktə'rɪstɪk/",
+    "phonetic_us": "/,kærəktə'rɪstɪk/",
+    "meanings": [
+      {
+        "part_of_speech": "adj",
+        "meaning_cn": "特有的,独特的",
+        "examples": [
+          {
+            "sentence_en": "the highly characteristic (= very typical ) flint walls of the local houses",
+            "sentence_cn": "当地房子非常有特色的燧石墙"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "特征,特性",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "characterize",
+    "phonetic_uk": "/'kærəktəraiz/",
+    "phonetic_us": "/'kærəktə'raɪz/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "表示…的特性;描述…特性",
+        "examples": [
+          {
+            "sentence_en": "Bright colours characterize his paintings.",
+            "sentence_cn": "明亮的色彩是他绘画作品的特点。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "agency",
+    "phonetic_uk": "/'eɪdʒ(ə)nsɪ/",
+    "phonetic_us": "/'edʒənsi/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "代理(处)；代办处；[美](政府的)机关，厅",
+        "examples": [
+          {
+            "sentence_en": "a UN agency responsible for helping refugees",
+            "sentence_cn": "负责为难民提供帮助的联合国机构"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "agenda",
+    "phonetic_uk": "/ə'dʒendə/",
+    "phonetic_us": "/ə'dʒɛndə/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "议事日程，记事册",
+        "examples": [
+          {
+            "sentence_en": "The Republicans have stuck to their conservative agenda.",
+            "sentence_cn": "共和党人坚持自己的保守议题。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "agent",
+    "phonetic_uk": "/'eɪdʒ(ə)nt/",
+    "phonetic_us": "/'edʒənt/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "代理人；代理商；产生作用的人或事物",
+        "examples": [
+          {
+            "sentence_en": "Our agent in Rio deals with all our Brazilian business.",
+            "sentence_cn": "我们在里约热内卢的业务代表处理我们在巴西的全部业务。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "agony",
+    "phonetic_uk": "/'ægənɪ/",
+    "phonetic_us": "/'æɡəni/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "(精神或肉体的)极大痛苦，创伤",
+        "examples": [
+          {
+            "sentence_en": "the agony of arthritis",
+            "sentence_cn": "关节炎的剧烈疼痛"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "agitate",
+    "phonetic_uk": "/'ædʒɪteɪt/",
+    "phonetic_us": "/ˈædʒɪˌteɪt/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "摇动(液体)；使焦虑不安；困扰；鼓动",
+        "examples": [
+          {
+            "sentence_en": "I must warn you that any mention of Clare agitates your grandmother.",
+            "sentence_cn": "我必须提醒你，一提到克莱尔你奶奶就会不安。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "art",
+    "phonetic_uk": "/ɑːt/",
+    "phonetic_us": "/ɑrt/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "艺术，美术；技术，技艺；文科，人文科学",
+        "examples": [
+          {
+            "sentence_en": "the Museum of Modern Art in New York",
+            "sentence_cn": "纽约现代艺术博物馆"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "artery",
+    "phonetic_uk": "/'ɑːtərɪ/",
+    "phonetic_us": "/'ɑrtəri/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "动脉；干线，要道",
+        "examples": [
+          {
+            "sentence_en": "...Connecticut Ave., one of the main arteries of Washington.",
+            "sentence_cn": "…康涅狄格大道，华盛顿的主干道之一。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "article",
+    "phonetic_uk": "/'ɑːtɪk(ə)l/",
+    "phonetic_us": "/'ɑrtɪkl/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "文章，论文；条款，条文；物件；冠词",
+        "examples": [
+          {
+            "sentence_en": "The paper’s leading article (=  the main article  ) described the government as weak.",
+            "sentence_cn": "该报社论称政府软弱。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "articulate",
+    "phonetic_uk": "/ɑ:'tɪkjʊleɪt/",
+    "phonetic_us": "/ɑr'tɪkjulet/",
+    "meanings": [
+      {
+        "part_of_speech": "adj",
+        "meaning_cn": "善于表达的；有关节相连的",
+        "examples": [
+          {
+            "sentence_en": "She is an articulate young woman.",
+            "sentence_cn": "她是个善表达的年轻女子。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "清楚地讲话",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "artificial",
+    "phonetic_uk": "/ɑːtɪ'fɪʃ(ə)l/",
+    "phonetic_us": "/,ɑrtɪ'fɪʃl/",
+    "meanings": [
+      {
+        "part_of_speech": "adj",
+        "meaning_cn": "人工的，人造的，人为的；虚伪的，做作的",
+        "examples": [
+          {
+            "sentence_en": "artificial flowers",
+            "sentence_cn": "假花"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "artist",
+    "phonetic_uk": "/'ɑːtɪst/",
+    "phonetic_us": "/'ɑrtɪst/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "艺术家，美术家；(某方面的)能手",
+        "examples": [
+          {
+            "sentence_en": "an exhibition of paintings by local artists",
+            "sentence_cn": "当地画家的画展"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "artistic",
+    "phonetic_uk": "/ɑː'tɪstɪk/",
+    "phonetic_us": "/ɑr'tɪstɪk/",
+    "meanings": [
+      {
+        "part_of_speech": "adj",
+        "meaning_cn": "艺术(家)的，美术(家)的；善于艺术创作的",
+        "examples": [
+          {
+            "sentence_en": "artistic work",
+            "sentence_cn": "艺术作品"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ban",
+    "phonetic_uk": "/bæn/",
+    "phonetic_us": "/bæn/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "取缔,查禁;(from)禁止",
+        "examples": [
+          {
+            "sentence_en": "Smoking is banned in the building.",
+            "sentence_cn": "大楼内禁止吸烟。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "禁止,禁令",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "abandon",
+    "phonetic_uk": "/ə'bænd(ə)n/",
+    "phonetic_us": "/ə'bændən/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "离弃，丢弃；遗弃，抛弃；放弃",
+        "examples": [
+          {
+            "sentence_en": "How could she abandon her own child?",
+            "sentence_cn": "她怎么能抛弃自己的孩子？"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "band",
+    "phonetic_uk": "/bænd/",
+    "phonetic_us": "/bænd/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "条,带;乐队;波段;一群,一伙",
+        "examples": [
+          {
+            "sentence_en": "The band was playing old Beatles songs.",
+            "sentence_cn": "乐队正在演奏披头士的老歌。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "缚,绑扎",
+        "examples": [
+          {
+            "sentence_en": "I grew up playing in rock bands.",
+            "sentence_cn": "我是在摇滚乐队里玩音乐长大的。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bandage",
+    "phonetic_uk": "/'bændɪdʒ/",
+    "phonetic_us": "/'bændɪdʒ/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "绷带",
+        "examples": [
+          {
+            "sentence_en": "We put some ointment and a bandage on his knee.",
+            "sentence_cn": "我们在他的膝盖上涂了些药膏，还缠了一条绷带。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "用绷带扎缚",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "bank",
+    "phonetic_uk": "/bæŋk/",
+    "phonetic_us": "/bæŋk/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "银行；岸,堤；",
+        "examples": [
+          {
+            "sentence_en": "the river bank",
+            "sentence_cn": "河岸"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bankrupt",
+    "phonetic_uk": "/'bæŋkrʌpt/",
+    "phonetic_us": "/'bæŋkrʌpt/",
+    "meanings": [
+      {
+        "part_of_speech": "adj",
+        "meaning_cn": "破产的；彻底缺乏的",
+        "examples": [
+          {
+            "sentence_en": "The firm went bankrupt before the building work was completed.",
+            "sentence_cn": "建筑工程尚未竣工，公司就破产了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "使破产n.破产者",
+        "examples": [
+          {
+            "sentence_en": "In 1977 he was declared bankrupt (=  by a court  ) .",
+            "sentence_cn": "1977年，他被宣布破产。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "banner",
+    "phonetic_uk": "/'bænə/",
+    "phonetic_us": "/'bænɚ/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "旗(帜)",
+        "examples": [
+          {
+            "sentence_en": "The oil-producing countries joined together under the banner of OPEC.",
+            "sentence_cn": "产油国都加入了石油输出国组织。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "banquet",
+    "phonetic_uk": "/'bæŋkwɪt/",
+    "phonetic_us": "/'bæŋkwɪt/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "(正式的)宴会",
+        "examples": [
+          {
+            "sentence_en": "a state banquet (=  one attended by heads of government and other important people  )",
+            "sentence_cn": "国宴"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "参加宴会",
+        "examples": []
+      },
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "宴情",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "husband",
+    "phonetic_uk": "/'hʌzbənd/",
+    "phonetic_us": "/'hʌzbənd/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "丈夫",
+        "examples": [
+          {
+            "sentence_en": "Have you met my husband Roy?",
+            "sentence_cn": "你见过我的丈夫罗伊吗？"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "urban",
+    "phonetic_uk": "/'ɜːb(ə)n/",
+    "phonetic_us": "/'ɝbən/",
+    "meanings": [
+      {
+        "part_of_speech": "adj",
+        "meaning_cn": "城市的, 市内的",
+        "examples": [
+          {
+            "sentence_en": "unemployment in urban areas",
+            "sentence_cn": "城市地区的失业状况"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bar",
+    "phonetic_uk": "/bɑː/",
+    "phonetic_us": "/bɑr/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "条,杆,闩;酒吧;栅,障碍(物)",
+        "examples": [
+          {
+            "sentence_en": "...Devil's Herd, the city's most popular country and western bar.",
+            "sentence_cn": "…“魔鬼群”，全城最受欢迎的西部乡村酒吧。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "闩上,阻拦",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "barbecue",
+    "phonetic_uk": "/'bɑːbɪkjuː/",
+    "phonetic_us": "/'bɑrbɪkju/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "烤肉；烤肉用的台架",
+        "examples": [
+          {
+            "sentence_en": "On New Year's Eve we had a barbecue on the beach.",
+            "sentence_cn": "除夕那天我们在海滩上举行了烧烤野餐。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "炙烤(肉等)",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "barber",
+    "phonetic_uk": "/'bɑːbə/",
+    "phonetic_us": "/'bɑrbɚ/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "理发师",
+        "examples": [
+          {
+            "sentence_en": "My father marched me over to Otto, the local barber, to have my hair cut short.",
+            "sentence_cn": "爸爸把我拽到当地理发师奥托跟前，让他把我的头发剪短。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bare",
+    "phonetic_uk": "/beə/",
+    "phonetic_us": "/bɛr/",
+    "meanings": [
+      {
+        "part_of_speech": "adj",
+        "meaning_cn": "赤裸的,空的;稀少的,仅有的",
+        "examples": [
+          {
+            "sentence_en": "a ragged child with bare feet",
+            "sentence_cn": "一个衣衫褴褛、光着脚的小孩"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "露出,暴露",
+        "examples": [
+          {
+            "sentence_en": "She felt the sun warm on her bare arms.",
+            "sentence_cn": "她感觉到阳光照在她裸露双臂上的暖意。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "barely",
+    "phonetic_uk": "/'beəlɪ/",
+    "phonetic_us": "/'bɛrli/",
+    "meanings": [
+      {
+        "part_of_speech": "adv",
+        "meaning_cn": "赤裸裸地,无遮蔽地;仅仅,勉强,几乎没有",
+        "examples": [
+          {
+            "sentence_en": "She was very old and barely able to walk.",
+            "sentence_cn": "她年纪非常大，只能勉强走几步路。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bargain",
+    "phonetic_uk": "/ˈbɑːɡɪn/",
+    "phonetic_us": "/ˈbɑːɡɪn/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "廉价货;交易,契约,合同",
+        "examp…252144 tokens truncated…     }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "evolve",
+    "phonetic_uk": "/ɪ'vɒlv/",
+    "phonetic_us": "/ɪ'vɑlv/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "发展，进化；进化；使逐步形成；推断出",
+        "examples": [
+          {
+            "sentence_en": "Animals have evolved camouflage to protect themselves from predators.",
+            "sentence_cn": "动物进化形成了伪装，以保护自身不被捕食性动物所捕食。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "worst",
+    "phonetic_uk": "/wə:st/",
+    "phonetic_us": "/wɝst/",
+    "meanings": [
+      {
+        "part_of_speech": "adj",
+        "meaning_cn": "最差的，最坏的；最不利的；效能最低的",
+        "examples": [
+          {
+            "sentence_en": "This is the worst recession for fifty years.",
+            "sentence_cn": "这是50年来最严重的一次经济衰退。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "最坏；最坏的时候",
+        "examples": [
+          {
+            "sentence_en": "My worst fear was that we would run out of food.",
+            "sentence_cn": "我最大的担忧是我们会把食物吃光。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adv",
+        "meaning_cn": "最坏地；最不利地",
+        "examples": [
+          {
+            "sentence_en": "What is the worst possible thing that can happen?",
+            "sentence_cn": "最糟可能会发生什么事？"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "estimate",
+    "phonetic_uk": "/'estɪmeɪt/",
+    "phonetic_us": "/'ɛstə,met/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "估计，估价",
+        "examples": [
+          {
+            "sentence_en": "Try to estimate how many steps it will take to get to a close object.",
+            "sentence_cn": "估计一下需要多少步才能到达一个近距目标。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "估计，估价；判断，看法",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "assess",
+    "phonetic_uk": "/ə'ses/",
+    "phonetic_us": "/ə'sɛs/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "评定；估价；对…征税",
+        "examples": [
+          {
+            "sentence_en": "The test was to assess aptitude rather than academic achievement.",
+            "sentence_cn": "该测试将评估能力而不是学业成绩。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "instance",
+    "phonetic_uk": "/'ɪnst(ə)ns/",
+    "phonetic_us": "/'ɪnstəns/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "实例；情况；建议",
+        "examples": [
+          {
+            "sentence_en": "We need to rethink the way we consume energy. Take, for instance, our approach to transport.",
+            "sentence_cn": "我们需要重新考虑我们使用能源的方式，例如我们的运输方式。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "举为例",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "criticize",
+    "phonetic_uk": "/'krɪtɪsaɪz/",
+    "phonetic_us": "/'krɪtə'saɪz/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "批评；评论；非难",
+        "examples": [
+          {
+            "sentence_en": "Ron does nothing but criticize and complain all the time.",
+            "sentence_cn": "罗恩什么也不干，只是一味指责和抱怨。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dedicate",
+    "phonetic_uk": "/'dedɪkeɪt/",
+    "phonetic_us": "/'dɛdɪket/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "致力；献身；题献",
+        "examples": [
+          {
+            "sentence_en": "For the next few years, she dedicated herself to her work.",
+            "sentence_cn": "随后的几年里，她全身心地投入工作。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "compromise",
+    "phonetic_uk": "/'kɒmprəmaɪz/",
+    "phonetic_us": "/'kɑmprəmaɪz/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "妥协；危害",
+        "examples": [
+          {
+            "sentence_en": "She admitted that she was unable to compromise.",
+            "sentence_cn": "她承认自己无法作出妥协。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "妥协，和解；折衷",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "premier",
+    "phonetic_uk": "/'premɪə; 'priː-/",
+    "phonetic_us": "/prɪ'mɪr/",
+    "meanings": [
+      {
+        "part_of_speech": "adj",
+        "meaning_cn": "第一的；最初的",
+        "examples": [
+          {
+            "sentence_en": "one of Dublin’s premier hotels",
+            "sentence_cn": "都柏林最好的酒店之一"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "总理，首相",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "salary",
+    "phonetic_uk": "/'sælərɪ/",
+    "phonetic_us": "/'sæləri/",
+    "meanings": [
+      {
+        "part_of_speech": "vt",
+        "meaning_cn": "给加薪；给薪水",
+        "examples": [
+          {
+            "sentence_en": "The average salary for a teacher is $39,000 a year.",
+            "sentence_cn": "教师的平均工资是39,000美元一年。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "薪水",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "planet",
+    "phonetic_uk": "/'plænɪt/",
+    "phonetic_us": "/'plænɪt/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "行星",
+        "examples": [
+          {
+            "sentence_en": "The picture shows six of the nine planets in the solar system.",
+            "sentence_cn": "这张图片展示太阳系9个行星中的6个行星。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lobby",
+    "phonetic_uk": "/'lɒbɪ/",
+    "phonetic_us": "/'lɑbi/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "大厅；休息室；会客室；游说议员的团体",
+        "examples": [
+          {
+            "sentence_en": "a hotel lobby",
+            "sentence_cn": "宾馆大堂"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "对……进行游说",
+        "examples": [
+          {
+            "sentence_en": "I’ll meet you in the entrance lobby.",
+            "sentence_cn": "我们在入口大厅见。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "smile",
+    "phonetic_uk": "/smaɪl/",
+    "phonetic_us": "/smaɪl/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "微笑",
+        "examples": [
+          {
+            "sentence_en": "her smiling face",
+            "sentence_cn": "她的笑脸"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "微笑；笑容；喜色",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "furthermore",
+    "phonetic_uk": "/fɜːðə'mɔː/",
+    "phonetic_us": "/,fɝðɚ'mɔr/",
+    "meanings": [
+      {
+        "part_of_speech": "adv",
+        "meaning_cn": "此外；而且",
+        "examples": [
+          {
+            "sentence_en": "He is old and unpopular. Furthermore, he has at best only two years of political life ahead of him.",
+            "sentence_cn": "他年纪已老，又不得人心，而且他最多也只有两年的政治生命了。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bet",
+    "phonetic_uk": "/bet/",
+    "phonetic_us": "/bɛt/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "打赌，赌注；被打赌的事物",
+        "examples": [
+          {
+            "sentence_en": "a £50 bet",
+            "sentence_cn": "50英镑的赌注"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "打赌；敢断定，确信",
+        "examples": [
+          {
+            "sentence_en": "Bookmakers are already taking bets on the outcome.",
+            "sentence_cn": "马票商已经开始接受对比赛结果的下注了。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "competitive",
+    "phonetic_uk": "/kəm'petɪtɪv/",
+    "phonetic_us": "/kəm'pɛtətɪv/",
+    "meanings": [
+      {
+        "part_of_speech": "adj",
+        "meaning_cn": "竞争的；比赛的；求胜心切的",
+        "examples": [
+          {
+            "sentence_en": "Competitive sports encourage children to work together as a team.",
+            "sentence_cn": "竞技体育鼓励孩子们进行团队协作。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bush",
+    "phonetic_uk": "/bʊʃ/",
+    "phonetic_us": "",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "灌木；矮树丛",
+        "examples": [
+          {
+            "sentence_en": "a rose bush",
+            "sentence_cn": "玫瑰丛"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "以灌木装饰；使…精疲力竭",
+        "examples": [
+          {
+            "sentence_en": "The child was hiding in the bushes.",
+            "sentence_cn": "那孩子躲在灌木丛里。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj",
+        "meaning_cn": "如灌木般长得低矮的；粗野的",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "connection",
+    "phonetic_uk": "/kəˈnekʃn/",
+    "phonetic_us": "/kə'nɛkʃən/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "连接；关系；人脉；连接件",
+        "examples": [
+          {
+            "sentence_en": "Police have so far failed to establish a connection between the two murders.",
+            "sentence_cn": "到目前为止警方尚未确定两宗凶杀案之间有关联。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "picture",
+    "phonetic_uk": "/'pɪktʃə/",
+    "phonetic_us": "/'pɪktʃɚ/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "照片，图画；影片；景色；化身",
+        "examples": [
+          {
+            "sentence_en": "The room had several pictures on the walls.",
+            "sentence_cn": "那个房间墙上有几幅画。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "画；想像；描写",
+        "examples": [
+          {
+            "sentence_en": "a book with pictures in it",
+            "sentence_cn": "带插图的书"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cognitive",
+    "phonetic_uk": "/'kɒɡnɪtɪv/",
+    "phonetic_us": "/'kɑɡnətɪv/",
+    "meanings": [
+      {
+        "part_of_speech": "adj",
+        "meaning_cn": "认知的，认识的",
+        "examples": [
+          {
+            "sentence_en": "cognitive psychology",
+            "sentence_cn": "认知心理学"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aim",
+    "phonetic_uk": "/eɪm/",
+    "phonetic_us": "/em/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "目的在于；引导；把…对准",
+        "examples": [
+          {
+            "sentence_en": "Denver aimed his gun but did not shoot.",
+            "sentence_cn": "丹佛举枪瞄准，但是没有射击。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "目的；目标；对准",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "afford",
+    "phonetic_uk": "/ə'fɔːd/",
+    "phonetic_us": "/ə'fɔrd/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "给予，提供；买得起",
+        "examples": [
+          {
+            "sentence_en": "The room affords a beautiful view over the city.",
+            "sentence_cn": "这房间可以俯瞰城市美景。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "(Afford)人名；(英)阿福德",
+        "examples": [
+          {
+            "sentence_en": "The new law will afford protection to employees.",
+            "sentence_cn": "新法律将为雇员提供保障。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cite",
+    "phonetic_uk": "/saɪt/",
+    "phonetic_us": "/saɪt/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "引用；传讯；想起；表彰",
+        "examples": [
+          {
+            "sentence_en": "The passage cited above is from a Robert Frost poem.",
+            "sentence_cn": "以上的引文出自罗伯特•弗罗斯特的一首诗。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "typical",
+    "phonetic_uk": "/'tɪpɪk(ə)l/",
+    "phonetic_us": "/'tɪpɪkl/",
+    "meanings": [
+      {
+        "part_of_speech": "adj",
+        "meaning_cn": "典型的；特有的；象征性的",
+        "examples": [
+          {
+            "sentence_en": "typical British weather",
+            "sentence_cn": "典型的英国天气"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "movement",
+    "phonetic_uk": "/'muːvm(ə)nt/",
+    "phonetic_us": "/'muvmənt/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "运动；活动；运转；乐章",
+        "examples": [
+          {
+            "sentence_en": "It's part of a broader nationalist movement that's gaining strength throughout the country.",
+            "sentence_cn": "这是一场正在全国范围内日益壮大的更为广泛的民族主义运动的一部分。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "commerce",
+    "phonetic_uk": "/'kɒmɜːs/",
+    "phonetic_us": "/'kɑmɝs/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "贸易；商业；商务",
+        "examples": [
+          {
+            "sentence_en": "measures promoting local commerce and industry",
+            "sentence_cn": "促进地方工商业发展的措施"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "universal",
+    "phonetic_uk": "/juːnɪ'vɜːs(ə)l/",
+    "phonetic_us": "/'jʊnə'vɝsl/",
+    "meanings": [
+      {
+        "part_of_speech": "adj",
+        "meaning_cn": "普遍的；通用的；宇宙的；全世界的；全体的",
+        "examples": [
+          {
+            "sentence_en": "free universal healthcare",
+            "sentence_cn": "免费的全民保健制度"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "一般概念；普通性",
+        "examples": [
+          {
+            "sentence_en": "These stories have universal appeal.",
+            "sentence_cn": "这些故事人人都喜欢。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nose",
+    "phonetic_uk": "/nəʊz/",
+    "phonetic_us": "/noz/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "鼻子；嗅觉；突出的部分；探问",
+        "examples": [
+          {
+            "sentence_en": "Someone punched him on the nose.",
+            "sentence_cn": "有人一拳打在他的鼻子上。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "嗅；用鼻子触",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "restore",
+    "phonetic_uk": "/rɪ'stɔː/",
+    "phonetic_us": "/rɪ'stɔr/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "恢复；修复；归还",
+        "examples": [
+          {
+            "sentence_en": "She was hoping that the Mediterranean climate would restore her to full health.",
+            "sentence_cn": "她希望地中海的气候能使她的身体完全复原。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "quarter",
+    "phonetic_uk": "/'kwɔːtə/",
+    "phonetic_us": "/'kwɔrtɚ/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "四分之一；地区；季度；一刻钟；两角五分；节",
+        "examples": [
+          {
+            "sentence_en": "It’s about a page and a quarter.",
+            "sentence_cn": "大概是一又四分之一页。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "住宿；驻扎",
+        "examples": [
+          {
+            "sentence_en": "Cut the cake into quarters.",
+            "sentence_cn": "把蛋糕切成四等份。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "num",
+        "meaning_cn": "四分之一",
+        "examples": []
+      }
+    ]
+  },
+  {
+    "word": "significance",
+    "phonetic_uk": "/sɪg'nɪfɪk(ə)ns/",
+    "phonetic_us": "/sɪɡ'nɪfɪkəns/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "意义；重要性；意思",
+        "examples": [
+          {
+            "sentence_en": "Ideas about the social significance of religion have changed over time.",
+            "sentence_cn": "有关宗教的社会意义的观念已随时间的流逝发生了改变。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "elite",
+    "phonetic_uk": "/[eɪˈliːt]/",
+    "phonetic_us": "/ɪˈliːt/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "精英；精华；中坚分子",
+        "examples": [
+          {
+            "sentence_en": "a struggle for power within the ruling elite ",
+            "sentence_cn": "统治阶层内部的争权夺利"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "permission",
+    "phonetic_uk": "/pə'mɪʃ(ə)n/",
+    "phonetic_us": "/pɚ'mɪʃən/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "允许，许可",
+        "examples": [
+          {
+            "sentence_en": "He asked permission to leave the room.",
+            "sentence_cn": "他请求离开房间的许可。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "regulation",
+    "phonetic_uk": "/regjʊ'leɪʃ(ə)n/",
+    "phonetic_us": "/ˌrɛɡjəˈleʃən/",
+    "meanings": [
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "管理；规则；校准",
+        "examples": [
+          {
+            "sentence_en": "There seem to be so many rules and regulations these days.",
+            "sentence_cn": "如今好像条条框框很多。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "adj",
+        "meaning_cn": "规定的；平常的",
+        "examples": [
+          {
+            "sentence_en": "regulations governing the safety of toys",
+            "sentence_cn": "监控玩具安全的条例"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "quote",
+    "phonetic_uk": "/kwəʊt/",
+    "phonetic_us": "/kwot/",
+    "meanings": [
+      {
+        "part_of_speech": "v",
+        "meaning_cn": "报价；引述；举证",
+        "examples": [
+          {
+            "sentence_en": "He quoted a short passage from the Bible.",
+            "sentence_cn": "他引用了《圣经》里的一小段。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "n",
+        "meaning_cn": "引用",
+        "examples": [
+          {
+            "sentence_en": "A military spokesman was quoted as saying that the border area is now safe.",
+            "sentence_cn": "报道引述军方一位发言人的话，说边境地区现在很安全。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "monopoly",
+    "phonetic_uk": "/mə'nɒp(ə)lɪ/",
+    "phonetic_us": "/mə'nɑpəli/",
+    "meanings": [
+      {
+        "part_of_speech": "n"
