@@ -1,1 +1,53 @@
-test
+{
+  "name": "vocab-website-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.7",
+    "@types/node": "^20.10.0",
+    "@types/react": "^18.2.39",
+    "@types/react-dom": "^18.2.17",
+    "axios": "^1.6.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.12.0",
+    "react-router-dom": "^6.20.1",
+    "react-scripts": "^4.0.3",
+    "recharts": "^2.10.3",
+    "typescript": "^4.9.5",
+    "zustand": "^4.4.7"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.3.6"
+  },
+  "scripts": {
+    "build-css": "tailwindcss -i ./src/index.css -o ./src/tailwind.generated.css --config ./tailwind.config.js",
+    "prestart": "npm run build-css",
+    "start": "set NODE_OPTIONS=--openssl-legacy-provider&& react-scripts start",
+    "prebuild": "npm run build-css",
+    "build": "set NODE_OPTIONS=--openssl-legacy-provider&& react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "proxy": "http://localhost:3001"
+}
