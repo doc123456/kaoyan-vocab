@@ -1,8 +1,11 @@
 {
   "name": "kaoyan-vocab-cloud",
   "private": true,
+  "engines": {
+    "node": ">=20.0.0 <21.0.0"
+  },
   "scripts": {
-    "build": "cd backend && npm install --omit=dev && cd ../frontend && npm install --package-lock=false && npm run build",
+    "build": "npm ci --prefix backend --omit=dev && npm ci --prefix frontend --include=dev && npm run build --prefix frontend",
     "start": "node backend/src/app.js"
   }
 }
