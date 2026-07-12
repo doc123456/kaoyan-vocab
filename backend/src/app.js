@@ -135,6 +135,20 @@ async function supabaseRequest(pathname, token, options = {}) {
   return text ? JSON.parse(text) : null;
 }
 
+function createCleanUserDatabase() {
+  const cleanDb = new SQLRuntime.Database(db.export());
+  cleanDb.run('DELETE FROM mistake_book');
+  cleanDb.run('DELETE FROM test_sessions');
+  cleanDb.run('DELETE FROM study_time_logs');
+  cleanDb.run('DELETE FROM study_logs');
+  cleanDb.run('DELETE FROM user_progress');
+  cleanDb.run(`
+    DELETE FROM sqlite_sequence
+    WHERE name IN ('mistake_book', 'test_sessions', 'study_time_logs', 'study_logs', 'user_progress')
+  `);
+  return cleanDb;
+}
+
 async function loadUserDatabase(req) {
   const authorization = req.headers.authorization;
   if (!authorization || !SUPABASE_URL || !SUPABASE_PUBLISHABLE_KEY) {
@@ -152,10 +166,9 @@ async function loadUserDatabase(req) {
 
   const rows = await supabaseRequest(`/rest/v1/learning_state?user_id=eq.${encodeURIComponent(user.id)}&select=progress`, authorization);
   const encodedDb = rows?.[0]?.progress?.dbBase64;
-  const sourceBytes = encodedDb
-    ? Buffer.from(encodedDb, 'base64')
-    : Buffer.from(db.export());
-  const userDb = new SQLRuntime.Database(sourceBytes);
+  const userDb = encodedDb
+    ? new SQLRuntime.Database(Buffer.from(encodedDb, 'base64'))
+    : createCleanUserDatabase();
 
   req.db = userDb;
   req.saveDb = () => {
